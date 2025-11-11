@@ -1,4 +1,9 @@
 # GAME "FIFTEEN" FOR VIRCON32 CONSOLE
+![DownloadCountTotal](https://img.shields.io/github/downloads/joyrider3774/fifteen_vircon32/total?label=total%20downloads&style=plastic) ![DownloadCountLatest](https://img.shields.io/github/downloads/joyrider3774/fifteen_vircon32/latest/total?style=plastic) ![LatestVersion](https://img.shields.io/github/v/tag/joyrider3774/fifteen_vircon32?label=Latest%20version&style=plastic) ![License](https://img.shields.io/github/license/joyrider3774/fifteen_vircon32?style=plastic)
+
+![screenshot 1](screenshots/screenshot1.png)  ![screenshot 2](screenshots/screenshot2.png)
+
+The fifteen sliding puzzle game for vircon32, based on the code from the 2048 game by carra
 
 ##  CREDITS:
 - Original author of 2048:  Gabriele Cirulli
