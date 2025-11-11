@@ -65,7 +65,7 @@ void DetermineScoreIncrease()
 // ---------------------------------------------------------
 
 
-void ExecuteMoveLeft()
+void ExecuteMoveRight()
 {
     for (int y = 0; y < 4; y++)
       for (int x = 0; x < 4; x ++)
@@ -85,7 +85,7 @@ void ExecuteMoveLeft()
 
 // ---------------------------------------------------------
 
-void ExecuteMoveRight()
+void ExecuteMoveLeft()
 {
     for (int y = 0; y < 4; y++)
       for (int x = 0; x < 4; x ++)
@@ -106,7 +106,7 @@ void ExecuteMoveRight()
 
 // ---------------------------------------------------------
 
-void ExecuteMoveUp()
+void ExecuteMoveDown()
 {
     for (int y = 0; y < 4; y++)
       for (int x = 0; x < 4; x ++)
@@ -127,7 +127,7 @@ void ExecuteMoveUp()
 
 // ---------------------------------------------------------
 
-void ExecuteMoveDown()
+void ExecuteMoveUp()
 {
     for (int y = 0; y < 4; y++)
       for (int x = 0; x < 4; x ++)
